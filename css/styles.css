@@ -14,7 +14,7 @@ body{
 .navbar-brand{
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 4rem;
 }
 .navbar{
   padding: 0 0 4.5rem;
@@ -26,7 +26,7 @@ body{
 
 .nav-link{
   font-family: "Montserrat-light", sans-serif;
-  font-size: 1.2rem;
+  font-size: 2rem;
 }
 
 .button-download{
@@ -49,7 +49,7 @@ body{
 
 .feature-box{
   text-align: center;
-  padding: 5%;
+  padding: 5% 0;
 }
 
 #testimonials{
@@ -82,7 +82,7 @@ body{
 }
 
 #pricing {
-  padding: 100px;
+  padding: 10% 0;
   text-align: center;
 }
 
@@ -93,7 +93,7 @@ body{
 #cta{
   background-color: #ff4c68;
   color: white;
-  padding: 100px;
+  padding: 10% 0;
 }
 #footer{
   background-color: #ff4c68;
@@ -107,25 +107,26 @@ h6{
 h1 {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
-  font-size: 3.5rem;
+  font-size: 5rem;
 }
 
 h2{
   font-family: "Montserrat", sans-serif;
-  font-size: 3rem;
+  font-size: 4rem;
   line-height: 1.5;
 }
 
 
 h3{
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+  font-size: 3rem;
 
 }
 
 p{
   font-family: 'Montserrat-Light', sans-serif;
   color: #8f8f8f;
+  font-size: 1.5rem;
 }
 
 .icon{
