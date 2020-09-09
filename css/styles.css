@@ -177,7 +177,23 @@ h2{
 
 @media (max-width: 1199px) {
 
-  .title-image{
+  h1{
+    font-size: 5rem;
+  }
+
+  h2{
+    font-size: 4rem;
+  }
+
+  h3{
+    font-size: 3rem;
+  }
+
+  .navbar-brand {
+    font-size: 4rem;
+  }
+
+  .title-image {
     width: 60%;
     display: inline-block;
     transform: rotate(0deg);
